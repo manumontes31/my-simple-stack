@@ -7,4 +7,8 @@ public class Item {
     public boolean isEmpty(){
         return false;
     }
+    /**
+     * Un commentaire répondant à l'exigence #1
+     * @return
+     */
 }
